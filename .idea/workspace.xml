@@ -2,47 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df831791-656a-410c-b362-1483dc5c5c3f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test02.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test03.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test04.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test05.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test06.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test07.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test08.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test09.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test04.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p1cas/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Indicator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Threadxx.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test04.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p1/Mythread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p1/Mythread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p1/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p1/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p2/Test2.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p2/Test2.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p2/Thread2.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p2/Thread2.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p3/Runable.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p3/Runable.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p3/Test3.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p3/Test3.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p1currentthread/SubThread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p1currentthread/SubThread02.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread02.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p1currentthread/Test02.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test02.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p1currentthread/Test1.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test1.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p2isalive/Test03.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Test03.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p2isalive/Thread03.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Thread03.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p3sleep/CountDownSimple.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/CountDownSimple.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p3sleep/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p3sleep/Thread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/Thread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p4getid/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p4getid/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p4getid/Thread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p4getid/Thread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p5yield/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p5yield/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p5yield/Thread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p5yield/Thread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p6setpriority/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p6setpriority/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p6setpriority/ThreadA.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p6setpriority/ThreadA.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p6setpriority/ThreadB.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p6setpriority/ThreadB.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p7interrupt/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p7interrupt/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p7interrupt/ThreadA.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p7interrupt/ThreadA.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p8setDaemon/Test.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p8setDaemon/Test.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p8setDaemon/Thread.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p8setDaemon/Thread.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadsafe/Test01.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3threadsafe/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadsafe/Test02.java" afterPath="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3threadsafe/Test02.java" />
+      <change beforePath="$PROJECT_DIR$/笔记/带你一次搞明白Java多线程(Ⅰ).pdf" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,137 +33,118 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Test05.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test05.java">
+      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p1cas/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="432">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test06.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test06.java">
+      <file leaf-file-name="Test03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding>
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test09.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test09.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="216">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test01.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="324">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test07.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test07.java">
+      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1044">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test08.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test08.java">
+      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-990">
-              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-54">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/test.java">
+      <file leaf-file-name="Test02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="162">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test03.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test03.java">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="297">
+              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test04.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test04.java">
+      <file leaf-file-name="Threadxx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Threadxx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="432">
+              <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
               <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,17 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1/Mythread.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1/Test.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2/Thread2.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2/Test2.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3/Runable.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3/Test3.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/createthread/p3/Test3.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/SubThread.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/Test1.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/SubThread02.java" />
-        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/Test02.java" />
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p1currentthread/Test02.java" />
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p2isalive/Test03.java" />
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/threadmethod/p2isalive/Thread03.java" />
@@ -257,6 +204,23 @@
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1/Test10.java" />
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test10.java" />
         <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test01.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Teat02.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test02.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test03.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test04.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p1cas/Test01.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Indicator.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Test.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Threadxx.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Test.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/User.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test01.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test02.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test03.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test01.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test02.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test03.java" />
+        <option value="$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test04.java" />
       </list>
     </option>
   </component>
@@ -267,8 +231,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1898" />
-    <option name="y" value="166" />
+    <option name="x" value="1599" />
+    <option name="y" value="137" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
@@ -290,8 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,7 +327,20 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="xm" type="462c0819:PsiDirectoryNode" />
-              <item name="p3锁" type="462c0819:PsiDirectoryNode" />
+              <item name="p5线程间的通信" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="01-threadbasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="xm" type="462c0819:PsiDirectoryNode" />
+              <item name="p5线程间的通信" type="462c0819:PsiDirectoryNode" />
+              <item name="p1等待通知机制" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thread" type="b2602c69:ProjectViewProjectNode" />
@@ -376,7 +351,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -388,6 +365,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.xm.p3锁.p2volatile" />
       <recent name="com.example.xm.p3锁.p1" />
       <recent name="com.example.xm.threadmethod.p6setpriority" />
     </key>
@@ -404,7 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test01">
+  <component name="RunManager" selected="Application.Test04">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -412,14 +390,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.xm.p3锁.p2volatile.*" />
+          <option name="PATTERN" value="com.example.xm.p5线程间的通信.p1等待通知机制.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.xm.p3锁.p2volatile.Test01" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xm.p5线程间的通信.p1等待通知机制.Test01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -431,14 +409,14 @@
       <module name="01-threadbasic" />
       <envs />
     </configuration>
-    <configuration name="Test08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.xm.p3锁.p1sync.*" />
+          <option name="PATTERN" value="com.example.xm.p5线程间的通信.p1等待通知机制.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.xm.p3锁.p1sync.Test08" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xm.p5线程间的通信.p1等待通知机制.Test02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -450,14 +428,14 @@
       <module name="01-threadbasic" />
       <envs />
     </configuration>
-    <configuration name="Test09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.xm.p3锁.p1sync.*" />
+          <option name="PATTERN" value="com.example.xm.p5线程间的通信.p1等待通知机制.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.xm.p3锁.p1sync.Test09" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xm.p5线程间的通信.p1等待通知机制.Test03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -469,14 +447,33 @@
       <module name="01-threadbasic" />
       <envs />
     </configuration>
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.xm.p3锁.p1sync.*" />
+          <option name="PATTERN" value="com.example.xm.p4多线程同步.p3AtomicReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.xm.p3锁.p1sync.Test10" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xm.p4多线程同步.p3AtomicReference.Test03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="01-threadbasic" />
+      <envs />
+    </configuration>
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.xm.p5线程间的通信.p1等待通知机制.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.xm.p5线程间的通信.p1等待通知机制.Test04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -500,25 +497,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.xm.p3锁.p1sync.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.xm.p3锁.p1sync.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="01-threadbasic" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -596,19 +574,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.ThreadApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.XmApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test08" />
-      <item index="3" class="java.lang.String" itemvalue="Application.test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test09" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Test10" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Test01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test03" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test01 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test02 (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Test03 (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test01" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test09" />
-        <item index="3" class="java.lang.String" itemvalue="Application.test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test08" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test04" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test03 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test02 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test01 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test03" />
       </list>
     </recent_temporary>
   </component>
@@ -632,11 +610,15 @@
       <workItem from="1630322634720" duration="3590000" />
       <workItem from="1630371674618" duration="257000" />
       <workItem from="1630478224390" duration="11032000" />
+      <workItem from="1630545560129" duration="2213000" />
+      <workItem from="1630563735902" duration="3609000" />
+      <workItem from="1630567411747" duration="2048000" />
+      <workItem from="1630570159866" duration="11789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26336000" />
+    <option name="totallyTimeSpent" value="45995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1048" extended-state="7" />
@@ -651,19 +633,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15279362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27480045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21512875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22800429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14937286" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295324" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -680,130 +662,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Thread03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="74" lean-forward="false" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p1createthread/p2/Thread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/CountDownSimple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/SubThread02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p1currentthread/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Thread03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p2isalive/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="74" lean-forward="false" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p2threadmethod/p3sleep/CountDownSimple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -872,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -904,11 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="method#run#0;class#MyTask#0;class#Test02#0" expanded="false" />
-            <element signature="method#doSomething#0;class#MyTask#0;class#Test02#0" expanded="false" />
-            <element signature="method#cancel#0;class#MyTask#0;class#Test02#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -916,10 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <element signature="e#884#885#0" expanded="false" />
-            <element signature="e#936#937#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,12 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#344#345#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -988,7 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-54">
           <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,37 +833,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test04.java">
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test03.java">
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="135">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#719#720#0" expanded="false" />
+            <element signature="e#766#767#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1039,71 +887,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test07.java">
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1044">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="648">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test08.java">
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p1sync/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="675">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="162">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
           <folding>
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#820#821#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#833#834#0" expanded="false" />
+            <element signature="e#867#868#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p3锁/p2volatile/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="e#1405#1406#0" expanded="false" />
+            <element signature="e#1441#1442#0" expanded="false" />
+            <element signature="e#1488#1489#0" expanded="false" />
+            <element signature="e#1522#1523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p1基础数据型/Indicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#856#857#0" expanded="false" />
+            <element signature="e#902#903#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#999#1000#0" expanded="false" />
+            <element signature="e#1034#1035#0" expanded="false" />
+            <element signature="e#1075#1076#0" expanded="false" />
+            <element signature="e#1110#1111#0" expanded="false" />
+            <element signature="e#1151#1152#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/Threadxx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p2原子变量类/p2AtomicIntegerFieldUpdater/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p1cas/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/p3AtomicStampedReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p4多线程同步/p3AtomicReference/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-threadbasic/src/main/java/com/example/xm/p5线程间的通信/p1等待通知机制/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
           </folding>
         </state>
       </provider>
