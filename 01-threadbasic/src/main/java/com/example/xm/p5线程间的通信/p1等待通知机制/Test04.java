@@ -45,6 +45,11 @@ public class Test04 {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 System.out.println(Thread.currentThread().getName() + "线程被唤醒");
 
             }
